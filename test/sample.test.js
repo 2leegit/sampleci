@@ -19,7 +19,7 @@ describe("Travis", () => {
 
             const result = "racecar"; // new Travis().isPalindrome(str);
 
-            expect(result).toEqual(result);
+            expect(result).toEqual("not");
             // expect(result).toEqual(true);
         });
 
